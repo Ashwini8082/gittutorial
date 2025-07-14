@@ -1,3 +1,5 @@
 this is sample text file, ok
 some new code changes updates
 code changes in master
+new code changes.
+
