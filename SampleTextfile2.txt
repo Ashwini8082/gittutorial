@@ -1,2 +1,3 @@
 this is sample text file, ok
 some new code changes updates
+new code changes
