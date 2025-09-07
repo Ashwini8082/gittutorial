@@ -1,0 +1,1 @@
+select * from my_catalog.my_schema.my_table1 limit 10;
